@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://templatefoundry.co.uk/sitemap.xml
