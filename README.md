@@ -1,2 +1,1 @@
-# Template Foundry
-Website source.
+# Template Foundry Milestone 1
