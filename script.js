@@ -1,1 +1,1 @@
-// Milestone 1
+document.querySelectorAll('.faq h4').forEach(h=>h.onclick=()=>h.nextElementSibling.classList.toggle('show'));

@@ -1,1 +1,1 @@
-# Template Foundry Milestone 1
+# Template Foundry Stage 2
